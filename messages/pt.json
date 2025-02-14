@@ -1,0 +1,11 @@
+{
+    "HomePage": {
+        "title": "Página Inicial",
+        "signIn": "Entrar"
+    },
+    "PrivatePage": {
+        "title": "Página Privada",
+        "userInfo": "Logado como: {name}",
+        "signOut": "Sair"
+    }
+}
