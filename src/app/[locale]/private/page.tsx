@@ -1,6 +1,6 @@
 "use client";
 
-import { useAuth } from "@/context/auth-context";
+import useAuth from "@/context/auth-context";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 
